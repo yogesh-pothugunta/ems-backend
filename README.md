@@ -13,7 +13,7 @@
 ## 🌐 Live API
 
 ```
-https://ems-backend-en67.onrender.com
+https://ems-frontend-b5hv.vercel.app
 ```
 
 > ⚠️ Note: The server may take 30–60 seconds to wake up on first request (free tier).
