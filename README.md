@@ -16,7 +16,7 @@
 https://ems-frontend-b5hv.vercel.app
 ```
 
-> ⚠️ Note: The server may take 30–60 seconds to wake up on first request (free tier).
+
 
 ---
 
@@ -24,9 +24,9 @@ https://ems-frontend-b5hv.vercel.app
 
 | Role | Email | Password |
 |------|-------|----------|
-| 👑 Admin | admin@ems.com | password123 |
-| 👩💼 HR Manager | hr@ems.com | password123 |
-| 👨💻 Employee | employee@ems.com | password123 |
+| 👑 Admin | admin@.com | password123 |
+| 👩💼 HR Manager | hr@.com | password123 |
+| 👨💻 Employee | employee@.com | password123 |
 
 ---
 
