@@ -24,9 +24,9 @@ https://ems-frontend-b5hv.vercel.app
 
 | Role | Email | Password |
 |------|-------|----------|
-| 👑 Admin | admin@.com | password123 |
-| 👩💼 HR Manager | hr@.com | password123 |
-| 👨💻 Employee | employee@.com | password123 |
+| 👑 Admin | admin@gmail.com | password123 |
+| 👩💼 HR Manager | hr@gmail.com | password123 |
+| 👨💻 Employee | employee@gmail.com | password123 |
 
 ---
 
